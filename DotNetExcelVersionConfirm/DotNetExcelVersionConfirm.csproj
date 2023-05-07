@@ -5,6 +5,12 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
+
+		<Description>.NET でインストールされている Excel の内部バージョンを確認するサンプルです。</Description>
+		<Company>ソーサリーフォース (https://sorceryforce.net/)</Company>
+		<Authors>ソーサリーフォース (おのでら)</Authors>
+		<Copyright>Copyright (C) 2023-2023 ソーサリーフォース (おのでら)</Copyright>
+	
+	</PropertyGroup>
 
 </Project>
